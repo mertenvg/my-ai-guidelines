@@ -17,7 +17,7 @@ maintaining their own copies.
 Add to your project's `CLAUDE.md`:
 
 ```markdown
-Refer to the AI engineering guidelines at <path-or-url-to-this-repo>/guidelines/
+Refer to the AI engineering guidelines at https://github.com/mertenvg/my-ai-guidelines/guidelines/
 for the full set of rules. They apply to all work in this repository.
 ```
 
